@@ -1,8 +1,8 @@
-# Self UseCUDA Library 
+# Self Use CUDA Library 
 
 ## Structure
 ```
-cudaLib/
+cuda-lib/
 ├── CMakeLists.txt
 ├── README.md
 ├── .gitignore
